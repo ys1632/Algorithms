@@ -1,7 +1,7 @@
-public class LIS_300 {
+public class Solution_300 {
     public static void main(String[] args) {
         int[] nums = new int[]{10,9,2,5,3,7,101,18};
-        LIS_300 lis = new LIS_300();
+        Solution_300 lis = new Solution_300();
         System.out.println(lis.lengthOfLIS(nums));
     }
     public int lengthOfLIS(int[] nums) {

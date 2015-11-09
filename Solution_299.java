@@ -1,4 +1,4 @@
-public class Bulls_and_Cows_299{
+public class Solution_299{
     public static void main(String[] args) {
             System.out.println(getHint("1807", "7810"));
     }
